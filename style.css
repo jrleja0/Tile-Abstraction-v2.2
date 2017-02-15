@@ -1,0 +1,211 @@
+/*
+* {
+  border: 1px dashed #3A5FCD;
+}
+*/
+
+body {
+  background-color: #0e1726; 
+}
+
+/*
+#header {
+  background-color: #4286f4;
+  top: 0px;
+  height: 75px;
+}
+
+#headerText {
+  top: 100px;
+  text-align: center;
+  padding-top: 20px;
+  font-family: Georgia, serif;
+  text-decoration: underline;
+}
+*/
+
+#mainCanvas {
+  background-color: #111;
+  top: 75px;
+  height: 510.3333px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 510.3333px;
+}
+
+.tile {
+  visibility: hidden;
+  /* height: 490px; */
+  /* width: 490px; */
+  position: absolute;
+  text-align: center;
+  left: 0px;
+  top: 0px;
+}
+
+/*  
+#footer {
+  background-color: #4286f4;
+  height: 75px;
+  clear: both;
+}
+*/
+
+ /*//\\//\\//\\//\\//\\//\\//\\//\\//*/
+/*//\\// Tile Canvas Elements \\//\\//*/
+ /*//\\//\\//\\//\\//\\//\\//\\//\\//*/
+
+#tileCanvas1 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 0px;
+  top: 0px;
+}
+
+#tileCanvas2 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 127.5834px;
+  top: 0px;
+
+}
+
+#tileCanvas3 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 255.1668px;
+  top: 0px;
+}
+
+#tileCanvas4 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 382.7502px;
+  top: 0px;
+}
+
+#tileCanvas5 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 0px;
+  top: 127.5834px;
+}
+
+#tileCanvas6 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 127.5834px;
+  top: 127.5834px;
+
+}
+
+#tileCanvas7 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 255.1668px;
+  top: 127.5834px;
+}
+
+#tileCanvas8 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 382.7502px;
+  top: 127.5834px;
+}
+
+#tileCanvas9 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 0px;
+  top: 255.1668px;
+}
+
+#tileCanvas10 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 127.5834px;
+  top: 255.1668px;
+
+}
+
+#tileCanvas11 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 255.1668px;
+  top: 255.1668px;
+}
+
+#tileCanvas12 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 382.7502px;
+  top: 255.1668px;
+}
+
+#tileCanvas13 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 0px;
+  top: 382.7502px;
+}
+
+#tileCanvas14 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 127.5834px;
+  top: 382.7502px;
+
+}
+
+#tileCanvas15 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 255.1668px;
+  top: 382.7502px;
+}
+
+#tileCanvas16 {
+  display: block;
+  position: absolute;
+  width: 127.5834px;
+  height: 127.5834px;
+  left: 382.7502px;
+  top: 382.7502px;
+}
+
+ /*//\\//\\//\\//\\//\\//\\//\\//\\//*/
+/*//\\ END of Tile Canvas Elements \\//*/
+ /*//\\//\\//\\//\\//\\//\\//\\//\\//*/
+ /*//\\//\\//\\//\\//\\//\\//\\//\\//*/
